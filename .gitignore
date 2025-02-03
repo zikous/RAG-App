@@ -35,9 +35,6 @@ instance/
 # Log files
 *.log
 
-# PDF files (if you don't want to commit your PDFs)
-pdfs/
-
 # Other potential IDE files
 .idea/
 *.swp
