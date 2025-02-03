@@ -1,0 +1,6 @@
+flask
+flask-cors
+PyMuPDF
+langchain
+transformers
+faiss-cpu
